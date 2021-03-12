@@ -78,8 +78,6 @@ Cada alumno deberá disponer de una laptop con la capacidad necesaria para insta
 
 - Repaso rápido de conceptos como: S.O.L.I.D., Funciones puras, etc.
 
----
-
 ### Módulo B
 
 - Repaso breve de conceptos:

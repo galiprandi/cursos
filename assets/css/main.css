@@ -3,9 +3,9 @@ Reset Styles
 */
 
 :root {
-  --text: #545454;
-  --primary: #ce00a1;
-  --dark: #6f6b6b;
+  --text: #7a6767;
+  --primary: #e2c626e6;
+  --dark: #7a6767;
   --bg: #ffffff;
 }
 body,
@@ -31,7 +31,7 @@ h2 {
 }
 blockquote,
 .markdown-body blockquote {
-  background-color: var(--dark);
+  background-color: var(--text);
   color: var(--bg);
   padding: 1em;
   border: 0;

@@ -1,7 +1,3 @@
-/**
-Reset Styles
-*/
-
 :root {
   --text: #7a6767;
   --primary: #e2c626e6;
@@ -16,11 +12,14 @@ body,
   max-width: 1024px;
   font-family: system-ui, sans-serif;
 }
+
 a {
   color: var(--bg);
   text-decoration: none;
 }
-
+h1 a {
+  color: var(--bg);
+}
 h1 {
   background-color: var(--primary);
   color: var(--bg);

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://galiprandi.github.io/css-toolset.css/css-toolset.min.css">
+
 # Javascript Avanzado
 
 > Docente: Germán Aliprandi <galiprandi@gmail.com>

@@ -1,12 +1,54 @@
-<link rel="stylesheet" href="https://galiprandi.github.io/css-toolset.css/css-toolset.min.css">
+<link rel="stylesheet" href="https://galiprandi.github.io/css-toolset.css/css-toolset.min.css-">
+<style>
+  :root { 
+  --text: #545454;
+  --primary: #ce00a1;
+  --dark: #6F6B6B;
+  --bg: #ffffff;
+}
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-size: 120%;
+  max-width: 1024px;
+}
+h1 {
+  background-color: var(--primary);
+  color: var(--bg);
+  padding: .5em 1em;
+}
+h2 {
+    margin-top: 3rem;
+}
+blockquote {
+  background-color: var(--dark);
+  color: var(--bg);
+  padding: 1em;
+  border:0;
+}
+hr{
+  margin: 2em 0;
+}
+.menu{
+  display: flex;
+  text-align: center;
+}
+</style>
 
 # Javascript Avanzado
 
-> Docente: Germán Aliprandi <galiprandi@gmail.com>
->
 > Nivel: Avanzado
 >
 > Duración: 6 meses, 24 clases, 72hs.
+>
+> Docente: Germán Aliprandi <galiprandi@gmail.com>
+
+---
+
+<nav class="menu">
+  <a href="#temario">Temario</a>
+  <a href="#costo-y-duración">Costo y duración</a>
+</nav>
 
 ## Metodología del curso:
 
@@ -101,5 +143,7 @@ Cada alumno deberá disponer de una laptop con la capacidad necesaria para insta
 - React, Vue, Svelte: ¿Cuál, porqué y cuando?
 
 - Repaso breve de librerías modernas: Jest, Redux, Recoil, Ramda, RxJS y otras.
+
+---
 
 > Los temas a tratar están sujetos a revisión y podrían sufrir cambios y/o adaptaciones previas y durante la duración del curso.

@@ -13,7 +13,8 @@ body,
   font-family: system-ui, sans-serif;
 }
 
-a {
+blockquote a,
+.markdown-body blockquote a {
   color: var(--bg);
   text-decoration: none;
 }

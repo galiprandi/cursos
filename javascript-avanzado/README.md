@@ -40,6 +40,8 @@ También es recomendable disponer de conocimientos básicos de Git, empaquetador
 
 Cada alumno deberá disponer de una laptop con la capacidad necesaria para instalar las herramientas de desarrollo y despliegue de aplicaciones web modernas.
 
+[Leer más...](https://github.com/galiprandi/cursos/wiki/Javascript-Avanzado:-Antes-de-comenzar)
+
 ## Temario:
 
 ### Módulo A

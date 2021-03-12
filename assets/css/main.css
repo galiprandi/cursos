@@ -1,3 +1,18 @@
+/**
+Reset Styles
+*/
+
+.markdown-body blockquote {
+  color: var(--bg);
+  padding: 1em;
+  border: 0;
+}
+
+a {
+  color: var(--bg);
+  text-decoration: none;
+}
+
 :root {
   --text: #545454;
   --primary: #ce00a1;

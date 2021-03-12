@@ -1,98 +1,103 @@
 # Javascript Avanzado
 
+> Docente: Germán Aliprandi <galiprandi@gmail.com>
+>
+> Nivel: Avanzado
+>
+> Duración: 6 meses, 24 clases, 72hs.
+
 ## Metodología del curso:
 
-El curso se dividirá en 2 módulos de 3 meses de duración cada uno y las clases serán presenciales y de no más de 5 alumnos simultáneamente, lo que garantiza un ambiente tranquilo y distendido en que cada persona puede evacuar sus dudas y lograr cercanía docente-alumnos que creemos indispensable.
+El curso se dividirá en 2 módulos de 3 meses de duración cada uno y las clases serán presenciales, y de no más de 5 alumnos simultáneamente, lo que garantiza un ambiente tranquilo y distendido en el que cada persona pueda evacuar sus dudas, lo que creemos indispensable.
 
-Se dictarán los días sábados y tendrán una duración de 3 horas ininterrumpidas, en las que durante la primera media hora, los alumnos podrán realizar consultas sobre proyectos personales, laborales o no relacionados con la temática del curso.
+Se dictarán los días sábados y tendrán una duración de 3 horas ininterrumpidas, en las que durante la primera media hora, los alumnos podrán realizar consultas sobre proyectos personales, laborales, o no relacionados con la temática del curso.
 
 ## Costo y duración:
 
-El costo total es de $ 60.000 y la duración es de 3 meses cada uno de los módulos, (6 meses en total) pudiendo ser abonado cada módulo por separado.
+El costo total es de $ 60.000, y su duración es de 6 meses.
 
-Las clases serán los días sábados de 13hs a 16hs disponiendo cada alumno de 2 horas extras al mes para consultas pudiendo ser o no relacionadas con el temario del curso.
+Las clases serán los días sábados de 14hs a 17hs disponiendo cada alumno de 2 horas extras al mes para consultas, pudiendo ser o no relacionadas con el temario del curso.
 
-La intención de éstas clases de consultas es acompañar a los alumnos en sus proyectos personales y/o laborales, ayudarlos e intercambiar conocimientos y contribuir al crecimiento colectivo.
+La intención de estas clases de consultas es acompañar a los alumnos en sus proyectos personales y/o laborales, ayudarlos e intercambiar conocimientos y contribuir al crecimiento colectivo.
 
 ## A quién va dirigido:
 
-Dirigido a personas con conocimientos previos de Javascript, CSS, HTML y de algunos de los framework y de las principales herramientas modernas que completan el ecosistema javascript actual.
+Dirigido a personas con conocimientos previos de Javascript, CSS, HTML y de algunos de los principales framework y herramientas modernas que complementan el ecosistema Javascript actual.
 
-También es recomendable disponer de conocimientos básicos de Git, empaquetadores y gestores de dependencias, e inglés.
+También es recomendable disponer de conocimientos básicos de Git, empaquetadores, gestores de dependencias e inglés.
 
 ## Requisitos necesarios:
 
-theme: jekyll-theme-leap-day
-Cada alumno deberá disponer de una laptop con capacidad necesaria para instalar las herramientas de desarrollo y despliegue de aplicaciones web modernas.
+Cada alumno deberá disponer de una laptop con la capacidad necesaria para instalar las herramientas de desarrollo y despliegue de aplicaciones web modernas.
 
 ## Temario:
 
-### Módulo 1/2
+### Módulo A
 
-• Herramientas de desarrollo, depuración y despliegue de código.
+- Herramientas de desarrollo, depuración y despliegue de código.
 
-• Repaso breve de conceptos:
+- Repaso breve de conceptos:
 
-    • Tipos de datos
+  - Tipos de datos
 
-    • Prototipos y herencia prototípica
+  - Prototipos y herencia prototípica
 
-    • Clases y funciones
+  - Clases y funciones
 
-    • El contexto de This, scope y closure
+  - El contexto de This, scope y closure
 
-    • El modo estricto
+  - El modo estricto
 
-• Objetos iterables, sus propiedades y ejercicios
+- Objetos iterables, sus propiedades y ejercicios
 
-• Operadores, bucles, performance y prácticas recomendadas.
+- Operadores, bucles, performance y prácticas recomendadas.
 
-• Consumo de API, asincronía y manejo de excepciones.
+- Consumo de API, asincronía y manejo de excepciones.
 
-• Observables en javascript.
+- Observables en javascript.
 
-• Manipulación del DOM y delegación de eventos
+- Manipulación del DOM y delegación de eventos
 
-• Expresiones regulares
+- Expresiones regulares
 
-• Manipulación de formularios
+- Manipulación de formularios
 
-• Recurrencia, ejemplos y buenas prácticas.
+- Recurrencia, ejemplos y buenas prácticas.
 
-• Empaquetadores: Webpack, Rollup, Parcel y Esbuild.
+- Empaquetadores: Webpack, Rollup, Parcel y Esbuild.
 
-• Node y Deno
+- Node y Deno
 
-• Repaso rápido de los conceptos S.O.L.I.D. funciones puras y prácticas recomendadas.
+- Repaso rápido de los conceptos S.O.L.I.D. funciones puras y prácticas recomendadas.
 
-### Módulo 2/2
+### Módulo B
 
-• Repaso breve de conceptos:
+- Repaso breve de conceptos:
 
-    • Funciones generadoras
+  - Funciones generadoras
 
-    • Minificación y Ofuscación de código
+  - Minificación y Ofuscación de código
 
-    • Importación, exportación y tipos de módulos
+  - Importación, exportación y tipos de módulos
 
-    • Tree shaking
+  - Tree shaking
 
-    • Call Stack, Event Loop, Garbage Collection
+  - Call Stack, Event Loop, Garbage Collection
 
-• Novedades ECMAScript 2019~2021
+- Novedades ECMAScript 2019~2021
 
-• Programación declarativa, imperativa y funcional.
+- Programación declarativa, imperativa y funcional.
 
-• Inmutabilidad
+- Inmutabilidad
 
-• Typescript: ¿cuando, donde y porqué?
+- Typescript: ¿cuando, donde y porqué?
 
-• Git básico y Flujos de trabajo distribuidos
+- Git básico y Flujos de trabajo distribuidos
 
-• Repaso rápido por las principales Web API
+- Repaso rápido por las principales Web API
 
-• React, Vue, Svelte: ¿Cuál, porqué y cuando?
+- React, Vue, Svelte: ¿Cuál, porqué y cuando?
 
-• Repaso breve de librerías modernas: Jest, Redux, Recoil, Ramda, RxJS y otras.
+- Repaso breve de librerías modernas: Jest, Redux, Recoil, Ramda, RxJS y otras.
 
 > Los temas a tratar están sujetos a revisión y podrían sufrir cambios y/o adaptaciones previas y durante la duración del curso.

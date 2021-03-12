@@ -22,6 +22,7 @@ También es recomendable disponer de conocimientos básicos de Git, empaquetador
 
 ## Requisitos necesarios:
 
+theme: jekyll-theme-leap-day
 Cada alumno deberá disponer de una laptop con capacidad necesaria para instalar las herramientas de desarrollo y despliegue de aplicaciones web modernas.
 
 ## Temario:

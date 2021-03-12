@@ -1,3 +1,3 @@
 # Cursos Disponibles
 
-### [Javascript Avanzado](javascript-avanzado/README.md)
+### [Javascript Avanzado](https://galiprandi.github.io/cursos/javascript-avanzado/)

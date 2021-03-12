@@ -1,53 +1,21 @@
-<link rel="stylesheet" href="https://galiprandi.github.io/css-toolset.css/css-toolset.min.css-">
-<style>
-  :root { 
-  --text: #545454;
-  --primary: #ce00a1;
-  --dark: #6F6B6B;
-  --bg: #ffffff;
-}
-body {
-  background-color: var(--bg);
-  color: var(--text);
-  font-size: 120%;
-  max-width: 1024px;
-}
-h1 {
-  background-color: var(--primary);
-  color: var(--bg);
-  padding: .5em 1em;
-}
-h2 {
-    margin-top: 3rem;
-}
-blockquote {
-  background-color: var(--dark);
-  color: var(--bg);
-  padding: 1em;
-  border:0;
-}
-hr{
-  margin: 2em 0;
-}
-.menu{
-  display: flex;
-  text-align: center;
-}
-</style>
+<link rel="stylesheet" href="../assets/css/main.css">
 
 # Javascript Avanzado
 
-> Nivel: Avanzado
+> - Nivel: Avanzado
 >
-> Duración: 6 meses, 24 clases, 72hs.
+> - Requisitos: Conocimientos básicos/medios previos, laptop
 >
-> Docente: Germán Aliprandi <galiprandi@gmail.com>
+> - Duración: 6 meses, 24 clases, 72hs.
+>
+> - Docente: Germán Aliprandi <galiprandi@gmail.com>
 
 ---
 
 <nav class="menu">
   <a href="#temario">Temario</a>
   <a href="#costo-y-duración">Costo y duración</a>
+  <a href="#a-quién-va-dirigido">A quién va dirigido</a>
 </nav>
 
 ## Metodología del curso:
@@ -86,7 +54,7 @@ Cada alumno deberá disponer de una laptop con la capacidad necesaria para insta
 
   - Prototipos y herencia prototípica
 
-  - Clases y funciones
+  - Clases y Funciones
 
   - El contexto de This, scope y closure
 
@@ -94,25 +62,25 @@ Cada alumno deberá disponer de una laptop con la capacidad necesaria para insta
 
 - Objetos iterables, sus propiedades y ejercicios
 
-- Operadores, bucles, performance y prácticas recomendadas.
+- Operadores, bucles, optimización y prácticas recomendadas.
 
-- Consumo de API, asincronía y manejo de excepciones.
-
-- Observables en javascript.
-
-- Manipulación del DOM y delegación de eventos
+- Manipulación de formularios
 
 - Expresiones regulares
 
-- Manipulación de formularios
+- Consumo de APIs, funciones asíncronas y manejo de excepciones.
+
+- Observables en javascript (RxJS).
+
+- Manipulación del DOM y delegación de eventos
 
 - Recurrencia, ejemplos y buenas prácticas.
 
 - Empaquetadores: Webpack, Rollup, Parcel y Esbuild.
 
-- Node y Deno
+- Repaso rápido de conceptos como: S.O.L.I.D., Funciones puras, etc.
 
-- Repaso rápido de los conceptos S.O.L.I.D. funciones puras y prácticas recomendadas.
+---
 
 ### Módulo B
 
@@ -120,29 +88,29 @@ Cada alumno deberá disponer de una laptop con la capacidad necesaria para insta
 
   - Funciones generadoras
 
-  - Minificación y Ofuscación de código
+  - Minificación, Ofuscación de código y Tree shaking
 
   - Importación, exportación y tipos de módulos
 
-  - Tree shaking
-
   - Call Stack, Event Loop, Garbage Collection
+
+- Node y Deno
 
 - Novedades ECMAScript 2019~2021
 
-- Programación declarativa, imperativa y funcional.
-
-- Inmutabilidad
-
-- Typescript: ¿cuando, donde y porqué?
-
-- Git básico y Flujos de trabajo distribuidos
-
-- Repaso rápido por las principales Web API
+- Programación declarativa vs imperativa vs funcional.
 
 - React, Vue, Svelte: ¿Cuál, porqué y cuando?
 
-- Repaso breve de librerías modernas: Jest, Redux, Recoil, Ramda, RxJS y otras.
+- Inmutabilidad.
+
+- Typescript: ¿cuándo, dónde y porqué?
+
+- Git básico y principales tipos de flujos distribuidos.
+
+- Repaso rápido por las principales Web API.
+
+- Repaso breve de librerías modernas: Jest, Redux, Recoil, Ramda y otras.
 
 ---
 

@@ -1,0 +1,48 @@
+:root {
+  --text: #545454;
+  --primary: #ce00a1;
+  --dark: #6f6b6b;
+  --bg: #ffffff;
+}
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-size: 120%;
+  max-width: 1024px;
+  font-family: system-ui, sans-serif;
+}
+h1 {
+  background-color: var(--primary);
+  color: var(--bg);
+  padding: 0.5em 1em;
+}
+h2 {
+  margin-top: 3rem;
+}
+blockquote {
+  background-color: var(--dark);
+  color: var(--bg);
+  padding: 1em;
+  border: 0;
+}
+hr {
+  margin: 2em 0;
+}
+.menu {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  background: var(--dark);
+  padding: 0.5em;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.menu a {
+  color: var(--bg);
+  text-decoration: none;
+}
+.menu a:hover {
+  text-decoration: underline;
+}

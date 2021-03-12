@@ -10,9 +10,9 @@ Reset Styles
 }
 body,
 .markdown-body {
+  margin: auto;
   background-color: var(--bg);
   color: var(--text);
-  font-size: 120%;
   max-width: 1024px;
   font-family: system-ui, sans-serif;
 }

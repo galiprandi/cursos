@@ -2,30 +2,25 @@
 Reset Styles
 */
 
-.markdown-body blockquote {
-  color: var(--bg);
-  padding: 1em;
-  border: 0;
-}
-
-a {
-  color: var(--bg);
-  text-decoration: none;
-}
-
 :root {
   --text: #545454;
   --primary: #ce00a1;
   --dark: #6f6b6b;
   --bg: #ffffff;
 }
-body {
+body,
+.markdown-body {
   background-color: var(--bg);
   color: var(--text);
   font-size: 120%;
   max-width: 1024px;
   font-family: system-ui, sans-serif;
 }
+a {
+  color: var(--bg);
+  text-decoration: none;
+}
+
 h1 {
   background-color: var(--primary);
   color: var(--bg);
@@ -34,7 +29,8 @@ h1 {
 h2 {
   margin-top: 3rem;
 }
-blockquote {
+blockquote,
+.markdown-body blockquote {
   background-color: var(--dark);
   color: var(--bg);
   padding: 1em;

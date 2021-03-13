@@ -115,3 +115,5 @@ _Si bien el foco principal del temario será Javascript, incorporaremos concepto
 **_Los temas a tratar están sujetos a revisión y podrían sufrir cambios y/o adaptaciones previas y durante la duración del curso._**
 
 > Para más información puede contactarse al teléfono <a href="tel:3815900868">3815900868</a> o por email a <gaiprandi@gmail.com>.
+
+***Avanzamos a hombros de gigantes...***

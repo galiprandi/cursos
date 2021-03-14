@@ -16,6 +16,14 @@
 >
 > - Docente: Germán Aliprandi <galiprandi@gmail.com>
 
+## Objetivo del curso
+
+El curso tiene como objetivo afianzar los conocimientos, evacuar dudas, promover el conocimiento colectivo y el trabajo grupal.
+
+Por ello, durante el curso pondremos en práctica las metodologías utilizadas en los principales equipos de desarrollo de primer nivel.
+
+Trabajaremos con Git, Herramientas, framework y librerías modernas, y discutiremos entre todos, los temas tratados en busca qde obtimizar y mejorar nuestras pácticas de desarrolo y herramientas utilizadas.
+
 ## Metodología del curso:
 
 El curso se dividirá en 2 módulos de 3 meses de duración cada uno y las clases serán presenciales, y con un **límite de 5 plazas**, lo que garantiza un ambiente tranquilo y distendido en el que todos puedan evacuar sus dudas, a la vez que podamos mantener las normas sanitarias requeridas.

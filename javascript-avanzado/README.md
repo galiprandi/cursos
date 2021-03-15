@@ -14,7 +14,9 @@
 >
 > - Duración: 6 meses, 24 clases, 72hs.
 >
-> - Docente: Germán Aliprandi <galiprandi@gmail.com>
+> - Docente: Germán Aliprandi
+> 
+> - Inscripciones: Tel: 381 5900868 o por email a <galiprandi@gmail.com>
 
 ## Objetivo del curso
 

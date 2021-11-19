@@ -6,6 +6,6 @@
 
 Dirigido a personas con conocimientos básicos de Javascript u otros lenguajes que buscan introducirse al lenguaje.
 
-## [Javascript: Avanzado](https://galiprandi.github.io/cursos/javascript-avanced/)
+## [Javascript: Avanzado](https://galiprandi.github.io/cursos/javascript-advanced/)
 
 Dirigido a personas con conocimientos previos de Javascript, CSS, HTML y de algunos de los framework y de las principales herramientas modernas que completan el ecosistema javascript actual.

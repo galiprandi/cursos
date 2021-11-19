@@ -76,12 +76,12 @@ Las funciones son uno de los bloques de construcción fundamentales en JavaScrip
 
 ```js
 /** Ejemplo de función */
-function sum(a, b) {
+function sumA(a, b) {
   return a + b
 }
 
 /** Ejemplo de función en formato arrow function */
-const sum = (a, b) => a + b
+const sumB = (a, b) => a + b
 ```
 
 ### Async/Await y Promesas

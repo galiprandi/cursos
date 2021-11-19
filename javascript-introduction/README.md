@@ -40,7 +40,7 @@ En javascript, todos los tipos de datos, **excepto los objetos**, definen valore
 
 ### Bucles e iteradores
 
-Los bucles ofrecen una forma rápida y sencilla de hacer algo repetidamente.
+Los bucles ofrecen una forma rápida y sencilla de hacer algo repetidamente. [más...](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 - Declaración for
 
@@ -76,15 +76,18 @@ const json = {
 }
 ```
 
-### Funciones y métodos
+### Funciones
 
-Las funciones son uno de los bloques de construcción fundamentales en JavaScript. Una función es similar a un procedimiento **un conjunto de instrucciones que realiza una tarea o calcula un valor**, pero para que un procedimiento califique como función, **debe tomar alguna entrada y devolver una salida** donde hay alguna relación obvia entre la entrada y la salida.
+Las funciones son uno de los bloques de construcción fundamentales en JavaScript. Una función es similar a un procedimiento **un conjunto de instrucciones que realiza una tarea o calcula un valor**, pero para que un procedimiento califique como función, **debe tomar alguna entrada y devolver una salida** donde hay alguna relación obvia entre la entrada y la salida. [más..](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions)
 
 ```js
 /** Ejemplo de función */
 function sum(a, b) {
   return a + b
 }
+
+/** Ejemplo de función en formato arrow function */
+const sum = (a, b) => a + b
 ```
 
 ### Async/Await y Promesas

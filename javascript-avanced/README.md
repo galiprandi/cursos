@@ -1,3 +1,11 @@
+<link rel="stylesheet" href="../assets/css/main.css">
+
+<nav class="menu">
+  <a href="#temario">Temario</a>
+  <a href="#costo-y-duración">Costo y duración</a>
+  <a href="#a-quién-va-dirigido">A quién va dirigido</a>
+</nav>
+
 # Javascript Avanzado
 
 > - Nivel: Avanzado
@@ -7,7 +15,7 @@
 > - Duración: 6 meses, 24 clases, 72hs.
 >
 > - Docente: Germán Aliprandi
-> 
+>
 > - Inscripciones: Tel: 381 5900868 o por email a <galiprandi@gmail.com>
 
 ## Objetivo del curso
@@ -26,7 +34,7 @@ Se dictarán los días sábados y tendrán una **duración de 3 horas** ininterr
 
 ## Costo y duración:
 
-**El costo total es de $ 60.000, y su duración es de 6 meses**.
+**El costo total es de $ 80.000, y su duración es de 6 meses**.
 
 Las clases serán los días sábados de 14hs a 17hs disponiendo cada alumno de 2 horas extras al mes para consultas, pudiendo ser o no relacionadas con el temario del curso.
 
@@ -118,4 +126,4 @@ _Si bien el foco principal del temario será Javascript, incorporaremos concepto
 
 > Para más información puede contactarse al teléfono <a href="tel:3815900868">3815900868</a> o por email a <gaiprandi@gmail.com>.
 
-***Avanzamos a hombros de gigantes...***
+**_Avanzamos a hombros de gigantes..._**

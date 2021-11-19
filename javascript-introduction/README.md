@@ -14,7 +14,7 @@
 
 ### Tipos de datos y variables
 
-JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos. El último estándar ECMAScript define nueve tipos. [más..]((https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures))
+JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos. El último estándar ECMAScript define nueve tipos. [más..](<(https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)>)
 
 > En javascript, todos los tipos de datos, **excepto los objetos**, definen valores inmutables.
 
@@ -40,21 +40,17 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 
 Los bucles ofrecen una forma rápida y sencilla de hacer algo repetidamente. [más...](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-- Declaración for
+- Iterador for
 
-- Declaración do...while
+- Iterador do...while
 
-- Declaración while
+- Iterador while
 
-- Declaración labeled
+- Iterador for...in
 
-- Declaración break
+- Iterador for...of
 
-- Declaración continue
-
-- Declaración for...in
-
-- Declaración for...of
+- Iterador forEach
 
 ### Manejo de errores
 
@@ -100,7 +96,10 @@ El DOM es una API definida para representar e interactuar con cualquier document
 
 La API Fetch proporciona una interfaz para recuperar recursos que también ofrece un conjunto de características más potente y flexible. [más..](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
 
-
 ## Ejercicios con código
 
-[Segunda Parte](https://github1s.com/galiprandi/cursos/blob/HEAD/javascript-introduction/async-await.js)
+- [Primera Parte](https://github1s.com/galiprandi/cursos/blob/HEAD/javascript-introduction/part-one.js)
+
+- [Segunda Parte](https://github1s.com/galiprandi/cursos/blob/HEAD/javascript-introduction/part-two.js)
+
+- [Tercera Parte](https://github1s.com/galiprandi/cursos/blob/HEAD/javascript-introduction/part-three.js)

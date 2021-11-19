@@ -18,23 +18,23 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 
 > En javascript, todos los tipos de datos, **excepto los objetos**, definen valores inmutables.
 
-- undefined: es automáticamente asignado a las variables que solo han sido declarados. [mas..](https://en.wikipedia.org/wiki/Undefined_value)
+- **undefined**: es automáticamente asignado a las variables que solo han sido declarados. [mas..](https://en.wikipedia.org/wiki/Undefined_value)
 
-- boolean: dato lógico que solo puede tener los valores true o false. [más..](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico)
+- **boolean**: dato lógico que solo puede tener los valores true o false. [más..](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico)
 
-- number: datos numéricos de double precision y de 64-bit de punto flotante descripto por el standard (IEEE 754). [más..](https://developer.mozilla.org/es/docs/Glossary/es.wikipedia.org/wiki/Tipo_de_dato#Num.C3.A9ricos)
+- **number**: datos numéricos de double precision y de 64-bit de punto flotante descripto por el standard (IEEE 754). [más..](https://developer.mozilla.org/es/docs/Glossary/es.wikipedia.org/wiki/Tipo_de_dato#Num.C3.A9ricos)
 
-- string: es una secuencia de caracteres usado para representar el texto. [más..](http://es.wikipedia.org/wiki/Cadena_de_caracteres)
+- **string**: es una secuencia de caracteres usado para representar el texto. [más..](http://es.wikipedia.org/wiki/Cadena_de_caracteres)
 
-- bigint: dato numerico que puede representar números enteros en el formato de precision arbitrario. [más..](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#bigint_type)
+- **bigint**: dato numerico que puede representar números enteros en el formato de precision arbitrario. [más..](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#bigint_type)
 
-- symbol: dato primitivo en cuyos casos son únicos e inmutables. [más..](http://en.wikipedia.org/wiki/Symbol_%28programming%29)
+- **symbol**: dato primitivo en cuyos casos son únicos e inmutables. [más..](http://en.wikipedia.org/wiki/Symbol_%28programming%29)
 
-- null: referencia que apunta, generalmente intencionadamente, a una inexistente o inválido objeto o dirección. [más..](https://es.wikipedia.org/wiki/Puntero_%28inform%C3%A1tica%29#Puntero_nulo)
+- **null**: referencia que apunta, generalmente intencionadamente, a una inexistente o inválido objeto o dirección. [más..](https://es.wikipedia.org/wiki/Puntero_%28inform%C3%A1tica%29#Puntero_nulo)
 
-- object: estructura de datos que contiene datos e instrucciones para trabajar con los datos. [más..](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects)
+- **object**: estructura de datos que contiene datos e instrucciones para trabajar con los datos. [más..](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects)
 
-- function: fragmento de código que puede ser llamado por otro código, por sí mismo, o por una variable que haga referencia a la misma. [más..](https://developer.mozilla.org/es/docs/Glossary/Function)
+- **function**: fragmento de código que puede ser llamado por otro código, por sí mismo, o por una variable que haga referencia a la misma. [más..](https://developer.mozilla.org/es/docs/Glossary/Function)
 
 ### Bucles e iteradores
 

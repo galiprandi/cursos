@@ -99,3 +99,8 @@ El DOM es una API definida para representar e interactuar con cualquier document
 ### Fetch
 
 La API Fetch proporciona una interfaz para recuperar recursos que también ofrece un conjunto de características más potente y flexible. [más..](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
+
+
+## Ejercicios con código
+
+[Segunda Parte](https://github1s.com/galiprandi/cursos/blob/HEAD/javascript-introduction/async-await.js)

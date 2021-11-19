@@ -14,11 +14,9 @@
 
 ### Tipos de datos y variables
 
-> [Documentación de apoyo](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)
+JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos. El último estándar ECMAScript define nueve tipos. [más..]((https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures))
 
-JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos. El último estándar ECMAScript define nueve tipos.
-
-En javascript, todos los tipos de datos, **excepto los objetos**, definen valores inmutables.
+> En javascript, todos los tipos de datos, **excepto los objetos**, definen valores inmutables.
 
 - undefined: es automáticamente asignado a las variables que solo han sido declarados. [mas..](https://en.wikipedia.org/wiki/Undefined_value)
 

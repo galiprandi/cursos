@@ -1,19 +1,20 @@
 {
-    "cSpell.words": [
-        "Deno",
-        "Esbuild",
-        "LHTLHYYL",
-        "Minificaci",
-        "Minificación",
-        "Recurrencia",
-        "a",
-        "asincron",
-        "asincronía",
-        "n",
-        "optimizaci",
-        "optimización",
-        "pica",
-        "protot",
-        "prototípica"
-    ]
+  "cSpell.words": [
+    "a",
+    "asincron",
+    "asincronía",
+    "Deno",
+    "Esbuild",
+    "iteradores",
+    "LHTLHYYL",
+    "Minificaci",
+    "Minificación",
+    "n",
+    "optimizaci",
+    "optimización",
+    "pica",
+    "protot",
+    "prototípica",
+    "Recurrencia"
+  ]
 }

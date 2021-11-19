@@ -1,11 +1,3 @@
-<link rel="stylesheet" href="../assets/css/main.css">
-
-<nav class="menu">
-  <a href="#temario">Temario</a>
-  <a href="#costo-y-duración">Costo y duración</a>
-  <a href="#a-quién-va-dirigido">A quién va dirigido</a>
-</nav>
-
 # Javascript Avanzado
 
 > - Nivel: Avanzado

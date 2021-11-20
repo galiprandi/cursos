@@ -16,7 +16,9 @@
 
 JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaScript no están asociadas directamente con ningún tipo de valor en particular, y a cualquier variable se le puede asignar (y reasignar) valores de todos los tipos. El último estándar ECMAScript define nueve tipos. [más..](<(https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures)>)
 
-> En javascript, todos los tipos de datos, **excepto los objetos**, definen valores inmutables.
+> En javascript, todos los tipos de datos, **excepto los objetos**, son denominados tipos de datos primitivos y definen valores inmutables, además de no poseer métodos ni propiedades.
+
+#### Primitivos
 
 - **undefined**: es automáticamente asignado a las variables que solo han sido declarados. [mas..](https://en.wikipedia.org/wiki/Undefined_value)
 
@@ -32,9 +34,11 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 
 - **null**: referencia que apunta, generalmente intencionadamente, a una inexistente o inválido objeto o dirección. [más..](https://es.wikipedia.org/wiki/Puntero_%28inform%C3%A1tica%29#Puntero_nulo)
 
+#### Objectos
+
 - **object**: estructura de datos que contiene datos e instrucciones para trabajar con los datos. [más..](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Objects)
 
-- **function**: fragmento de código que puede ser llamado por otro código, por sí mismo, o por una variable que haga referencia a la misma. [más..](https://developer.mozilla.org/es/docs/Glossary/Function)
+- **function**: fragmento de código que puede ser llamado por otro código, por sí mismo, o por una variable que haga referencia a la misma. Este también es un tipo de dato object, pero el método **typeof** hace una excepción en este caso y reconoce a las funciones con el tipo "function". [más..](https://developer.mozilla.org/es/docs/Glossary/Function)
 
 ### Bucles e iteradores
 

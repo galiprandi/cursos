@@ -20,11 +20,11 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 
 #### Primitivos
 
-- **undefined**: es automáticamente asignado a las variables que solo han sido declarados. [mas..](https://en.wikipedia.org/wiki/Undefined_value)
+- **undefined**: es automáticamente asignado a las variables que solo han sido declarados. [más..](https://en.wikipedia.org/wiki/Undefined_value)
 
 - **boolean**: dato lógico que solo puede tener los valores true o false. [más..](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico)
 
-- **number**: datos numéricos de double precision y de 64-bit de punto flotante descripto por el standard (IEEE 754). [más..](https://developer.mozilla.org/es/docs/Glossary/es.wikipedia.org/wiki/Tipo_de_dato#Num.C3.A9ricos)
+- **number**: datos numéricos de double precision y de 64-bit de punto flotante descripto por el standard (IEEE 754). [más..](https://es.wikipedia.org/wiki/Tipo_de_dato#Num.C3.A9ricos)
 
 - **string**: es una secuencia de caracteres usado para representar el texto. [más..](http://es.wikipedia.org/wiki/Cadena_de_caracteres)
 
@@ -42,7 +42,7 @@ JavaScript es un lenguaje débilmente tipado y dinámico. Las variables en JavaS
 
 ### Bucles e iteradores
 
-Los bucles ofrecen una forma rápida y sencilla de hacer algo repetidamente. [más...](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
+Los bucles ofrecen una forma rápida y sencilla de hacer algo repetidamente. [más..](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 - Iterador for
 

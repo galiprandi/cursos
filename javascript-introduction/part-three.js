@@ -23,7 +23,7 @@ getUsers('https://jsonplaceholder.typicode.com/users')
 /** 
  * Ejemplo de función nombrada asíncrona
  */
-function async fetchUsers(endpoint) {
+async function fetchUsers(endpoint) {
   const response = await fetch(endpoint)
   if (!response.ok) throw Error('Hubo un error al recuperar los usuarios')
 

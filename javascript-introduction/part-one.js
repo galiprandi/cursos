@@ -16,7 +16,7 @@ myValue = true // myValue ahora es de tipo boolean
 
 myValue = 2022 // myValue ahora es de tipo number
 
-myValue = 'Vacaciones 2022' // myValue ahora es de tipo number
+myValue = 'Vacaciones 2022' // myValue ahora es de tipo string
 
 myValue = 9007199254740991n // myValue ahora es de tipo bigint
 
